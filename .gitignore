@@ -1,0 +1,18 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local build spec / notes
+Prompt.md
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
